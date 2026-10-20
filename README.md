@@ -12,6 +12,7 @@ Front-End React Developer based in Maadi, Cairo, Egypt. I build responsive, comp
 - [E-Commerce](https://github.com/nadanashat1/e-commerce) - React 18 + Redux storefront: catalog filters, cart, checkout, account pages. [Live demo](https://e-commerce-template.surge.sh)
 - [Lens - The World of Photography](https://github.com/nadanashat1/Lens-The-World-of-Photography) - Arabic (RTL) photography blog in React with search and category filtering.
 - [NutriPlan](https://github.com/nadanashat1/nutriplan-design) - Meal and nutrition planner in vanilla JavaScript powered by live food APIs.
+- [Investa](https://github.com/nadanashat1/Investa-app) - Graduation project: React + Material UI front-end for a founder and investor platform (dashboards, reports, product management).
 
 More in my repositories: a NASA/space-data dashboard, a quiz app with a custom-built config form, an Arabic landing page for a finance app, and several design-focused landing pages.
 
