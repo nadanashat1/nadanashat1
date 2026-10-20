@@ -13,6 +13,7 @@ Front-End React Developer based in Maadi, Cairo, Egypt. I build responsive, comp
 - [Lens - The World of Photography](https://github.com/nadanashat1/Lens-The-World-of-Photography) - Arabic (RTL) photography blog in React with search and category filtering.
 - [NutriPlan](https://github.com/nadanashat1/nutriplan-design) - Meal and nutrition planner in vanilla JavaScript powered by live food APIs.
 - [Investa](https://github.com/nadanashat1/Investa-app) - Graduation project: React + Material UI front-end for a founder and investor platform (dashboards, reports, product management).
+- [Smart Laundry](https://github.com/nadanashat1/Smart-Laundry) - Internship project (team): React + TypeScript + Vite web app for a laundry service, with admin and customer sides. I built the admin delivery and customers pages.
 
 More in my repositories: a NASA/space-data dashboard, a quiz app with a custom-built config form, an Arabic landing page for a finance app, and several design-focused landing pages.
 
